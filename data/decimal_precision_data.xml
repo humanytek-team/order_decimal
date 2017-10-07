@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+
+        <record id="product_price_2" model="decimal.precision">
+            <field name="name">Product Price 2</field>
+            <field name="digits">4</field>
+        </record>
+
+    </data>
+</odoo>
