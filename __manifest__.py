@@ -32,7 +32,7 @@
     'version': '1.0.0',
     'depends': ['sale', 'purchase', 'sale_global_discount'],
     'data': [
-        'data/decimal_precision_data.xml'
+        'data/decimal_precision_data.xml',
     ],
     'demo': [
     ],
