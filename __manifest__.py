@@ -30,7 +30,8 @@
     'website': "http://www.humanytek.com",
     'category': 'Sale',
     'version': '1.0.0',
-    'depends': ['sale', 'purchase', 'sale_global_discount'],
+    'depends': ['sale', 'purchase', 'sale_global_discount',
+                'argil_invoice_analysis_extension'],
     'data': [
         'data/decimal_precision_data.xml',
     ],

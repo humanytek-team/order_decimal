@@ -22,3 +22,4 @@
 
 import sale
 import purchase
+import res_currency
